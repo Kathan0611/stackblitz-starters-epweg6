@@ -15,7 +15,7 @@ const hospitalSchema = new monogoose.Schema(
     },
     spiecalizetion: {
       type: String,
-      required: true,
+    
     },
     pincode: {
       type: String,
